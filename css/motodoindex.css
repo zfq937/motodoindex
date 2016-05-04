@@ -29,6 +29,11 @@
 	height: auto;
 	width: 100%
 }
+#body .top .logo {
+	
+	width: 20%;
+	min-width: 110px;
+}
 .slidesjs-container{
 	height: auto;
 }
@@ -79,7 +84,7 @@
     display: none;
     float: right;
     width: 20px;
-    height: 25px;
+    height: 20px;
      border-radius:3px;
     margin-left: 5px;
     margin-right: 5px;
